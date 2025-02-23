@@ -22,19 +22,13 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-#### SETUP 
+## PROGRESS TO DEPLOY XJAY MD FIRST FORK MY REPO
+<a href="https://github.com/SMASHER-jay/Xjaymd"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=red&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=GET+SESSION+FOR`🩸⃟༑༑+JACKIE+MD+`🩸⃟༑༑BOT)](https://git.io/typing-svg) 
 
-[`FORK`](https://github.com/Next5x/TIMNASA_TMD1/fork)
-
-
- 
-
-
-[`PAIRING CODE`](https://timnasa-md42.onrender.com)
- 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   
+<a href="https://james-xtech-session-generator.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
 
 #### DEPLOY TO HEROKU 
